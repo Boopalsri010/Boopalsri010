@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Boopalsri010
+- 👋 Hi, I’m Boopalsri
 - 👀 I’m interested in learning new information 
 - 🌱 I’m currently learning Python and C
   
